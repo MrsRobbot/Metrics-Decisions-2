@@ -437,9 +437,9 @@ form p a {
   filter: drop-shadow(0 0 0.75rem rgb(255, 255, 255));
 }
 
-/* references */
+/* Références */
 
-.references {
+.Références {
   display: flex;
   background: url("/assets/images/page/Header3.jpg") no-repeat center;
   height: 70vh;
@@ -450,16 +450,16 @@ form p a {
   font-family: "DM Sans", sans-serif;
 }
 
-.references .max-width {
+.Références .max-width {
   width: 100%;
   display: flex;
   text-align: center !important;
 }
 
-.references .max-width .row {
+.Références .max-width .row {
   margin-right: 0;
 }
-.references .max-width p {
+.Références .max-width p {
   font-size: 50px;
   text-align: center;
   margin: auto;
